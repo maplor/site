@@ -18,13 +18,13 @@ resource:
 ![image](https://zos.alipayobjects.com/skylark/313254aa-ff97-4396-9192-3c0f8fc16867/attach/2378/da07b27fb885206a/image.png)
 
 
-## 坐标轴 AXES
+## 坐标轴 AXIS
 
 每个图表通常包含两个坐标轴，在直角坐标系（笛卡尔坐标系）下，分别为 x 轴和 y 轴，在极坐标轴下，则分别由角度和半径 2 个维度构成。
 
 每个坐标轴由坐标轴线（line）、刻度线（tickLine）、刻度文本（label）、标题（title）以及网格线（grid）组成。
 
-查看 [Axes](./axes.html) 教程获取更多信息。
+查看 [Axis](./axis.html) 教程获取更多信息。
 
 ## 图例 LEGEND
 
